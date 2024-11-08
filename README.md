@@ -1,2 +1,2 @@
 # HTML5-e-CSS3
-Exercícios criados usando HTML5 e CSS3
+Estudos focados em HTML5 e CSS3
